@@ -38,7 +38,7 @@ The Shared Data Unit makes data journalism available to news organisations acros
 * Wales: The Leader: [Data reveals what North Wales councils are charging for collecting garden waste](https://www.leaderlive.co.uk/news/17928671.data-reveals-north-wales-councils-charging-collecting-garden-waste/) *26 September 2019*
 * Spirit FM: [West Sussex garden waste fees among UK's highest](https://www.spiritfm.net/news/sussex-news/2959111/west-sussex-garden-waste-fees-among-uks-highest/) *26 September 2019*
 
-The story was also used by  
+The story was also used by BBC Radio 2, BBC Midlands Today, BBC WM, BBC Hereford & Worcester, BBC Radio Cambridgeshire, BBC Radio Kent, BBC Radio Suffolk, BBC Radio Berkshire, BBC Surrey, BBC Sussex and BBC Three Counties Radio
 
 
 ## Get the data 
