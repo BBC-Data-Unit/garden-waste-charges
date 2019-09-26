@@ -29,15 +29,14 @@ The Shared Data Unit makes data journalism available to news organisations acros
 * The Scarborough News: [Above-average cost for garden waste collections in the Scarborough borough](https://www.thescarboroughnews.co.uk/news/people/above-average-cost-for-garden-waste-collections-in-the-scarborough-borough-1-10014928) *25 September 2019*
 * Yorkshire Coast Radio: [Garden Waste Charges Higher in Scarborough](https://www.yorkshirecoastradio.com/news/local-news/2958897/garden-waste-charges-higher-in-scarborough/) *25 September 2019*
 * Berkshire Live: [The only Berkshire town with 'free' green waste collections revealed](https://www.getreading.co.uk/news/reading-berkshire-news/only-berkshire-town-free-green-16973327) *25 September 2019*
+* Horticulture Week: [Garden waste collection charges reach up to £100 a year](https://www.hortweek.com/garden-waste-collection-charges-reach-100-year/local-authority/article/1660573) *25 September 2019*
 * Bristol Post: [Brown bin charges can be almost double depending on where you live](https://www.bristolpost.co.uk/news/bristol-news/brown-bin-charges-bristol-somerset-3360804) *26 September 2019*
 * The Lancaster & Morecambe Citizen: [East Lancashire council 'garden tax' figures revealed](https://www.thelancasterandmorecambecitizen.co.uk/news/17928436.east-lancashire-council-garden-tax-figures-revealed/) *26 September 2019*
 * Lancashire Post: [‘People need to do more to increase city recycling rate’ - Preston's recycling rates revealed as one of the worst in the North West](https://www.lep.co.uk/news/environment/people-need-to-do-more-to-increase-city-recycling-rate-preston-s-recycling-rates-revealed-as-one-of-the-worst-in-the-north-west-1-10017312) *26 September 2019*
 * Lancashire Telegraph: [East Lancashire council 'garden tax' figures revealed](https://www.lancashiretelegraph.co.uk/news/17928436.east-lancashire-council-garden-tax-figures-revealed/) *26 September 2019*
 * East Anglian Daily Times: [Revealed: The most expensive places in Suffolk to dispose of garden waste](https://www.eadt.co.uk/news/suffolk-councils-charge-more-than-national-average-for-brown-bin-collection-1-6290645) *26 September 2019*
 * Wales: The Leader: [Data reveals what North Wales councils are charging for collecting garden waste](https://www.leaderlive.co.uk/news/17928671.data-reveals-north-wales-councils-charging-collecting-garden-waste/) *26 September 2019*
-
-
-
+* Spirit FM: [West Sussex garden waste fees among UK's highest](https://www.spiritfm.net/news/sussex-news/2959111/west-sussex-garden-waste-fees-among-uks-highest/) *26 September 2019*
 
 The story was also used by  
 
