@@ -42,6 +42,7 @@ The Shared Data Unit makes data journalism available to news organisations acros
 * Spirit FM: [West Sussex garden waste fees among UK's highest](https://www.spiritfm.net/news/sussex-news/2959111/west-sussex-garden-waste-fees-among-uks-highest/) *26 September 2019*
 * Harborough Mail: [Call for compensation if Harborough District Council barred from charging for green waste bin collections](https://www.harboroughmail.co.uk/news/call-for-compensation-if-harborough-district-council-barred-from-charging-for-green-waste-bin-collections-1-9086731) *26 September 2019*
 * The Reading Chronicle: [No council charges more than Reading to get started with garden waste bin](https://www.readingchronicle.co.uk/news/17930097.no-council-charges-reading-get-started-garden-waste-bin/) *26 September 2019*
+* The Scotsman: [Winners and losers amongst Scottish households for kerbside collections](https://www.scotsman.com/news/environment/winners-and-losers-amongst-scottish-households-for-kerbside-collections-1-5012797) *28 September 2019*
 
 The story was also used by BBC Radio 2, [BBC Midlands Today](https://drive.google.com/open?id=1oYu4G0Mb8IkbEWGpkaO-uY6u3C2cWCSd), BBC WM, BBC Hereford & Worcester, BBC Radio Cambridgeshire, BBC Radio Kent, BBC Radio Suffolk, BBC Radio Berkshire, BBC Surrey, BBC Sussex and BBC Three Counties Radio
 
