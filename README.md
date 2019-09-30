@@ -32,6 +32,7 @@ The Shared Data Unit makes data journalism available to news organisations acros
 * Yorkshire Coast Radio: [Garden Waste Charges Higher in Scarborough](https://www.yorkshirecoastradio.com/news/local-news/2958897/garden-waste-charges-higher-in-scarborough/) *25 September 2019*
 * Berkshire Live: [The only Berkshire town with 'free' green waste collections revealed](https://www.getreading.co.uk/news/reading-berkshire-news/only-berkshire-town-free-green-16973327) *25 September 2019*
 * Horticulture Week: [Garden waste collection charges reach up to £100 a year](https://www.hortweek.com/garden-waste-collection-charges-reach-100-year/local-authority/article/1660573) *25 September 2019*
+* London: 853: [Lewisham residents pay the most in London for garden waste collection](https://853.london/2019/09/25/lewisham-residents-pay-the-most-in-london-for-garden-waste-collection/) *25 September 2019*
 * Lynn News: [Garden waste charge in West Norfolk among highest in county, analysis shows](https://www.lynnnews.co.uk/news/garden-waste-charge-in-west-norfolk-among-highest-in-county-analysis-shows-9084216/) *26 September 2019*
 * Bristol Post: [Brown bin charges can be almost double depending on where you live](https://www.bristolpost.co.uk/news/bristol-news/brown-bin-charges-bristol-somerset-3360804) *26 September 2019*
 * The Lancaster & Morecambe Citizen: [East Lancashire council 'garden tax' figures revealed](https://www.thelancasterandmorecambecitizen.co.uk/news/17928436.east-lancashire-council-garden-tax-figures-revealed/) *26 September 2019*
