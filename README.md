@@ -28,6 +28,7 @@ The Shared Data Unit makes data journalism available to news organisations acros
 * The Lochside Press: [Argyll and Bute one of only a handful of councils not to collect garden waste](https://thelochsidepress.com/2019/09/25/argyll-and-bute-one-of-only-a-handful-of-councils-not-to-collect-garden-waste/) *25 September 2019*
 * Deeside.com: [How do garden waste collection charges in Flintshire compare with the rest of Wales](http://www.deeside.com/how-do-garden-waste-collection-charges-in-flintshire-compare-with-the-rest-of-wales/) *25 September 2019*
 * The Northern Echo: [Councils in North-East charging up to £40 per year to collect garden waste](https://www.thenorthernecho.co.uk/news/17924278.councils-north-east-charging-40-collect-garden-waste/) *25 September 2019*
+* Darlington & Stockton Times: [Councils in North-East charging up to £40 to collect garden waste](https://www.darlingtonandstocktontimes.co.uk/news/17924279.councils-north-east-charging-40-collect-garden-waste/) *25 September 2019*
 * The Scarborough News: [Above-average cost for garden waste collections in the Scarborough borough](https://www.thescarboroughnews.co.uk/news/people/above-average-cost-for-garden-waste-collections-in-the-scarborough-borough-1-10014928) *25 September 2019*
 * Yorkshire Coast Radio: [Garden Waste Charges Higher in Scarborough](https://www.yorkshirecoastradio.com/news/local-news/2958897/garden-waste-charges-higher-in-scarborough/) *25 September 2019*
 * Berkshire Live: [The only Berkshire town with 'free' green waste collections revealed](https://www.getreading.co.uk/news/reading-berkshire-news/only-berkshire-town-free-green-16973327) *25 September 2019*
@@ -43,7 +44,13 @@ The Shared Data Unit makes data journalism available to news organisations acros
 * Spirit FM: [West Sussex garden waste fees among UK's highest](https://www.spiritfm.net/news/sussex-news/2959111/west-sussex-garden-waste-fees-among-uks-highest/) *26 September 2019*
 * Harborough Mail: [Call for compensation if Harborough District Council barred from charging for green waste bin collections](https://www.harboroughmail.co.uk/news/call-for-compensation-if-harborough-district-council-barred-from-charging-for-green-waste-bin-collections-1-9086731) *26 September 2019*
 * The Reading Chronicle: [No council charges more than Reading to get started with garden waste bin](https://www.readingchronicle.co.uk/news/17930097.no-council-charges-reading-get-started-garden-waste-bin/) *26 September 2019*
+* Eagle Radio: [Most expensive garden waste charges in Surrey and Hampshire](https://www.eagleradio.co.uk/news/local-news/2960527/most-expensive-garden-waste-charges-in-surrey-and-hampshire/) *27 September 2019*
+* Watford Observer: [Four Hertfordshire councils charge for garden waste collection](https://www.watfordobserver.co.uk/news/17930194.three-rivers-one-four-herts-councils-charge-garden-waste-collection/) *27 September 2019*
 * The Scotsman: [Winners and losers amongst Scottish households for kerbside collections](https://www.scotsman.com/news/environment/winners-and-losers-amongst-scottish-households-for-kerbside-collections-1-5012797) *28 September 2019*
+* The Warwick Courier: [Warwick district sees highest one-off charge for green bins in area](https://www.warwickcourier.co.uk/news/warwick-district-sees-highest-one-off-charge-for-green-bins-in-area-1-9090401) *30 September 2019*
+* Isle of Wight Observer: [Garden waste scheme to be extended soon](https://iwobserver.co.uk/2019/09/30/garden-waste-scheme-to-be-extended-soon/) *30 September 2019*
+* Stourbridge News: [Dudley's charges for second garden waste bin among highest](https://www.stourbridgenews.co.uk/news/17937357.dudleys-charges-second-garden-waste-bin-among-highest/) *1 October 2019*
+
 
 The story was also used by BBC Radio 2, [BBC Midlands Today](https://drive.google.com/open?id=1oYu4G0Mb8IkbEWGpkaO-uY6u3C2cWCSd), BBC WM, BBC Hereford & Worcester, BBC Radio Cambridgeshire, BBC Radio Kent, BBC Radio Suffolk, BBC Radio Berkshire, BBC Surrey, BBC Sussex and BBC Three Counties Radio
 
