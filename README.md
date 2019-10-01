@@ -51,6 +51,8 @@ The Shared Data Unit makes data journalism available to news organisations acros
 * The Warwick Courier: [Warwick district sees highest one-off charge for green bins in area](https://www.warwickcourier.co.uk/news/warwick-district-sees-highest-one-off-charge-for-green-bins-in-area-1-9090401) *30 September 2019*
 * Isle of Wight Observer: [Garden waste scheme to be extended soon](https://iwobserver.co.uk/2019/09/30/garden-waste-scheme-to-be-extended-soon/) *30 September 2019*
 * Stourbridge News: [Dudley's charges for second garden waste bin among highest](https://www.stourbridgenews.co.uk/news/17937357.dudleys-charges-second-garden-waste-bin-among-highest/) *1 October 2019*
+* Halesowen News: [Dudley's charges for second garden waste bin among highest](https://www.halesowennews.co.uk/news/17937357.dudleys-charges-second-garden-waste-bin-among-highest/) *1 October 2019*
+* Dudley News: [Dudley's charges for second garden waste bin among highest](https://www.dudleynews.co.uk/news/17937357.dudleys-charges-second-garden-waste-bin-among-highest/) *1 October 2019*
 
 
 The story was also used by BBC Radio 2, [BBC Midlands Today](https://drive.google.com/open?id=1oYu4G0Mb8IkbEWGpkaO-uY6u3C2cWCSd), BBC WM, BBC Hereford & Worcester, BBC Radio Cambridgeshire, BBC Radio Kent, BBC Radio Suffolk, BBC Radio Berkshire, BBC Surrey, BBC Sussex and BBC Three Counties Radio
