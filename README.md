@@ -53,6 +53,7 @@ The Shared Data Unit makes data journalism available to news organisations acros
 * Stourbridge News: [Dudley's charges for second garden waste bin among highest](https://www.stourbridgenews.co.uk/news/17937357.dudleys-charges-second-garden-waste-bin-among-highest/) *1 October 2019*
 * Halesowen News: [Dudley's charges for second garden waste bin among highest](https://www.halesowennews.co.uk/news/17937357.dudleys-charges-second-garden-waste-bin-among-highest/) *1 October 2019*
 * Dudley News: [Dudley's charges for second garden waste bin among highest](https://www.dudleynews.co.uk/news/17937357.dudleys-charges-second-garden-waste-bin-among-highest/) *1 October 2019*
+* Surrey Live: [Some Surrey households paying twice as much for green waste collections as neighbouring areas](https://www.getsurrey.co.uk/news/surrey-news/green-waste-collections-guildford-reigate-17049989) *9 October 2019*
 
 
 The story was also used by BBC Radio 2, [BBC Midlands Today](https://drive.google.com/open?id=1oYu4G0Mb8IkbEWGpkaO-uY6u3C2cWCSd), BBC WM, BBC Hereford & Worcester, BBC Radio Cambridgeshire, BBC Radio Kent, BBC Radio Suffolk, BBC Radio Berkshire, BBC Surrey, BBC Sussex and BBC Three Counties Radio
