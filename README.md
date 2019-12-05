@@ -57,7 +57,7 @@ The Shared Data Unit makes data journalism available to news organisations acros
 *  South London Press & Mercury: [Waste not, because it cost a lot: Householders face postcode lottery over fees for garden waste collections](https://www.londonnewsonline.co.uk/waste-not-because-it-cost-a-lot-householders-face-postcode-lottery-over-fees-for-garden-waste-collections/#) *11 October 2019*
 
 
-The story was also used by BBC Radio 2, [BBC Midlands Today](https://drive.google.com/open?id=1oYu4G0Mb8IkbEWGpkaO-uY6u3C2cWCSd), BBC WM, BBC Hereford & Worcester, BBC Radio Cambridgeshire, BBC Radio Kent, BBC Radio Suffolk, BBC Radio Berkshire, BBC Surrey, BBC Sussex and BBC Three Counties Radio
+The story was also used by BBC Radio 2, [BBC Midlands Today](https://drive.google.com/open?id=1oYu4G0Mb8IkbEWGpkaO-uY6u3C2cWCSd), BBC WM, BBC Hereford & Worcester, BBC Radio Cambridgeshire, BBC Radio Kent, BBC Radio Suffolk, BBC Radio Berkshire, BBC Surrey, BBC Sussex, BBC Three Counties Radio and BBC Gardeners’ World Magazine. 
 
 
 ## Get the data 
